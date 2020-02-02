@@ -39,9 +39,8 @@ public class Application {
 					
 				case 'x':
 					System.out.println("\nGoodbye!");
-					
 			}
 		}
 	}
-
+	
 }
